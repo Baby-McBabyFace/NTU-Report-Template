@@ -1,2 +1,2 @@
-# NTU-Report-Template
-Report template for NTU
+# NTU Report Template
+Feel free to use it for your own use
